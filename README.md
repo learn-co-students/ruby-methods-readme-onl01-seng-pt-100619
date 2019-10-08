@@ -20,7 +20,7 @@ see what it produces.
 
 ### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/njJB-fuE-qE?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=njJB-fuE-qE">Introduction to Ruby Methods</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/njJB-fuE-qE?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe> <p><a href="https://www.youtube.com/watch?v=njJB-fuE-qE">Introduction to Ruby Methods</a></p>
 
 ### Why Use Methods
 
